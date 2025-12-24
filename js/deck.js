@@ -1,3 +1,5 @@
+import { createCard } from './card.js';
+
 /**
  * Configuration for Deck interactions
  */
